@@ -15,6 +15,6 @@
 2. Mở `BT_GIUA_KY.ipynb` và chạy tất cả (Run All).
 
 Ghi chú:
-- Cần GPU NVIDIA (em chạy trên RTX A2000 8GB, Colab T4 cũng chạy được).
+- Cần GPU NVIDIA (em chạy trên RTX A2000 8GB, Google Colab với GPU T4 cũng chạy được).
 - Lần đầu notebook tự tải 3 mô hình (khoảng 2GB) và dữ liệu (CIFAR-10, UCF101-subset) từ HuggingFace, nên cần có mạng.
 - Có sẵn thư mục `outputs/` thì chạy khoảng 5 phút. Muốn tính lại toàn bộ thì đặt `USE_CACHE = False` trong ô cấu hình, mất khoảng 30–40 phút.
