@@ -1,0 +1,16 @@
+# PyTorch có CUDA: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+torch>=2.3
+torchvision
+transformers>=4.53
+diffusers
+accelerate
+huggingface_hub
+scikit-learn
+umap-learn
+scipy
+numpy
+pandas
+pyarrow
+matplotlib
+av
+jupyter
