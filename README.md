@@ -1,5 +1,7 @@
 # Bài tập giữa kỳ – So sánh biểu diễn VAE, ViT, V-JEPA
 
+Nguyễn Bùi Anh Kiệt - 2510906 - GVHD: TS. Bùi Hà Đức
+
 ## Nội dung
 - `BT_GIUA_KY.ipynb`: notebook bài làm (đã chạy sẵn, có đủ hình và kết quả).
 - `outputs/`: embedding và kết quả đã tính, để chạy lại nhanh.
